@@ -1,7 +1,7 @@
 body{
     /* font-family: Georgia, 'Times New Roman', Times, serif; */
     font-size: medium;
-    background-image:url('/images/pebbles.jpg');
+    background-image:url('../images/pebbles.jpg');
     background-repeat: no-repeat;
     background-size: 100%;
     /* margin:0px; */
@@ -25,7 +25,7 @@ header img{
 .example
 {   margin-top:100px;
     padding:25px;
-    background-image: url('/images/notebook.jpg');
+    background-image: url('../images/notebook.jpg');
     background-size: 100% 100%;
     border-radius: 18px;
 }
